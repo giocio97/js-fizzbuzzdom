@@ -25,13 +25,6 @@ for (let index = 1; index <= 100; index++) {
             element = `<div class= "div.tuttinumeri buzz"> Buzz <div/>`;
         }
 
-
-
-
-
-     
-    
-    
         myQuadrato.innerHTML += element; 
     console.log(element);
 }
