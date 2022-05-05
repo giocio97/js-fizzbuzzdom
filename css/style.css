@@ -14,13 +14,15 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 70px;
+    gap: 25px;
 
 
 }
 
 h1{color: white;
     margin:20px 0;
+    font-size: 65px;
+    font-family: 'Bangers', cursive, Arial, Helvetica, sans-serif ; 
 }
 
 .tuttinumeri, .fizz, .buzz, .fizzbuzz{
