@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 70px;
 
 
 }
@@ -23,30 +23,28 @@ h1{color: white;
     margin:20px 0;
 }
 
-.tuttinumeri{
+.tuttinumeri, .fizz, .buzz, .fizzbuzz{
     width: 200px;
     height: 200px;
-    background-color: #1389b2;
+    
     padding: 80px;
+}
+
+.tuttinumeri{
+    background-color: #1389b2;
 }
 
 .fizz{
     background-color: #0bd6a1;
-    width: 200px;
-    height: 200px;
-    padding: 80px;
+   
 }
 .buzz{
     background-color: #ffd166;
-    width: 200px;
-    height: 200px;
-    padding: 80px;
+    
 }
 
 .fizzbuzz{
     background-color: #f0466f;
-    width: 200px;
-    height: 200px;
-    padding: 80px;
+    
     
 }
